@@ -4,7 +4,7 @@ CMPT 371 - 2021
 Create a simple web server with socket programming, and HTTP protocol.
 At first, the web server only handle one HTTP request at a time based on the following messages for all relevant methods to the client:
 
-Code	  Message
+Code -  Message
 
 200	 -   OK
 
